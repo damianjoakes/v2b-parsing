@@ -4,3 +4,8 @@ language = "en"
 multilingual = false
 src = "src"
 title = "View to Binder Parsing"
+
+[output.html]
+default-theme = "light"
+preferred-dark-theme = "coal"
+additional-css = ["./custom.css"]
